@@ -1,8 +1,6 @@
 /*--------------------------------------------------------------- Header Section------------------------------------------------------- */
 
 #show-cv-btn{
-    position: fixed;
-
     color: #0096c7;
     padding: 10px;
     font-size: 15px;
@@ -14,8 +12,7 @@
     cursor: pointer;
     z-index: 0;
 }
-#close-cv-btn{
-    position: fixed; 
+#close-cv-btn{ 
     top: 50px;
     color: #0096c7;
     padding: 10px;
